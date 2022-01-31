@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello Guys! :D <img style="margin-top:10px;" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150px">
 
 <!--
 **thiagotesla/thiagotesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
