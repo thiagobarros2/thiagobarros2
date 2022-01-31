@@ -1,4 +1,13 @@
  <img style="margin-top:10px;" src="https://c.tenor.com/nJclFuwdP5wAAAAC/squirtle-pikachu.gif" width="300px">
+ 
+[![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/linkedin_101776.png)](https://www.linkedin.com/in/thiagobarros95/)
+[![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/github_101792.png)](https://github.com/thiagotesla)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagotesla&count_private=true&show_icons=true&theme=monokai&line_height=33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotesla&theme=monokai&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **thiagotesla/thiagotesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
