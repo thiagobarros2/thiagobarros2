@@ -6,4 +6,4 @@
  Meu linkedIn: 
  </p>
 
-[![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/linkedin_101776.png)](https://www.linkedin.com/in/thiagobarros95/?target=_blank)
+[![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/linkedin_101776.png)](https://www.linkedin.com/in/thiagobarros95/)
