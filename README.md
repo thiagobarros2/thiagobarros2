@@ -8,8 +8,8 @@
   
 <div> 
   <a href="https://github.com/thiagotesla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagotesla&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotesla&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagotesla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotesla&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>
 <div>
   <img align="center" alt="NodeJS" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
