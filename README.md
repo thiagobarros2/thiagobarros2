@@ -2,7 +2,7 @@
   
 
   
- <p align="center"> I’m working with NodeJS backend solutions.</p>
+ <p align="center"> I’m working with Laravel backend solutions.</p>
 
   
   
