@@ -6,11 +6,7 @@
 
   
   
-<div align="center"> 
-  <a href="https://github.com/thiagotesla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagotesla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotesla&layout=compact&langs_count=7&theme=dark"/>
-</div> <br>
+
 <div align="center">
   <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="JavaScript" height="50" width="50"  src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
