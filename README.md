@@ -15,8 +15,7 @@
   <img align="center" alt="Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img align="center" alt="NestJS" height="50" width="50" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg"/>
-  
+  <img align="center" alt="NestJS" height="50" width="50" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg"/><br>
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
   <img align="center" alt="MariaDB" height="50" width="50" src="https://symbols.getvecta.com/stencil_88/26_mariadb.7d74c8160d.svg"/> <br>
