@@ -4,7 +4,7 @@
   
  <p align="center"> I’m working with PHP + Laravel backend solutions.</p>
 
-  
+
   
 <p align="center"> Mainly skills.</p>
 <div align="center">
@@ -15,7 +15,7 @@
   <img align="center" alt="Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img align="center" alt="NestJS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"/><br>
+  <img align="center" alt="NestJS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"/><br>
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
   <img align="center" alt="MariaDB" height="50" width="50" src="https://symbols.getvecta.com/stencil_88/26_mariadb.7d74c8160d.svg"/>
