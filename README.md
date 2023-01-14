@@ -6,7 +6,7 @@
 
 
   
-<p align="center"> Mainly skills.</p>
+<p align="center"> Mainly skills:</p>
 <div align="center">
   <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
   <img align="center" alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
