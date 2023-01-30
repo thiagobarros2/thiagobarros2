@@ -13,13 +13,16 @@
   <img align="center" alt="JavaScript" height="50" width="50"  src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img align="center" alt="Git" height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>
+  <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img align="center" alt="DOCKER" height="50" width="50" src="https://img.icons8.com/color/48/null/docker.png"/><br>
   <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img align="center" alt="NestJS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"/>
   <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
   <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img align="center" alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img align="center" alt="HTML5" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img align="center" alt="RUST" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/>
+  
 </div>
   
   ##
