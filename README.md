@@ -1,6 +1,6 @@
 <h2 align="center"> Hey, you! Thiago Barros here. </h2>
-  
 
+ [![An image of @thiagobarros2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thiagobarros2)](https://holopin.io/@thiagobarros2)
   
  <p align="center"> I’m working with PHP + Laravel backend solutions.</p>
 
