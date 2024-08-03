@@ -12,9 +12,6 @@
   <img align="center" alt="NestJS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"/>
   <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
   <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img align="center" alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="center" alt="HTML5" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img align="center" alt="RUST" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/null/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/>
   
 </div>
   
